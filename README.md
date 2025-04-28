@@ -8,5 +8,5 @@
 
 <!---
 LoganMinarik/LoganMinarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. (I feel like you saying im special is another way you just called me Autistic)
+You can click the Preview link to take a look at your changes. (I feel like you saying I'm special is another way you just called me Autistic)
 --->
